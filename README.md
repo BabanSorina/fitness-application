@@ -1,6 +1,6 @@
 # Fitness application
 
-A React web application that uses multiple APIs from RapidApi to display, search and watch fitness content. 
+A React web application that uses multiple APIs from RapidApi to display, search and watch fitness content.It uses the ExerciseDB API and the Youtube search and Download API, both from RapidAPI.
 ![image](https://user-images.githubusercontent.com/58532132/219778045-d7fae310-dc9e-46c9-bf2d-ddae87b49a40.png)
 
 You can use the search bar to find multiple workouts based on a searched term like name / target area/ equipment used / body part that is targets. 
